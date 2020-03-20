@@ -11,7 +11,9 @@ Input Mode: terminal
 
 Output folder: same as input
 
-General concept: pick and choose the streams from the video
+Output name: - same as video title - (with an "video_" prefix if audio only is chosen)
+
+General concept: pick and choose the streams from the video and mux them in a container
 
 ### How to use
 
